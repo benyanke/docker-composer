@@ -1,4 +1,4 @@
-# Composer container for Laravel
+# Composer docker image for Laravel
 
 This is a [Docker](http://www.docker.com) image for the [composer CLI](https://getcomposer.org/) suited to be used with the [Laravel PHP Framework](http://laravel.com/).
 
