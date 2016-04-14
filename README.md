@@ -1,4 +1,4 @@
-# Docker composer for Laravel
+# Composer container for Laravel
 
 This is a [Docker](http://www.docker.com) image for the [composer CLI](https://getcomposer.org/) suited to be used with the [Laravel PHP Framework](http://laravel.com/).
 
@@ -20,4 +20,6 @@ docker run -t --rm -v $(pwd):/var/www vcarreira/composer <composer args here>
 
 ---
 
-:ok_hand: Happy Coding. If you have any feedback or questions, feel free to contact me on Twitter with [@vcarreira](https://twitter.com/vcarreira) or email with [vitor.carreira@gmail.com](mailto:vitor.carreira@gmail.com).
+:ok_hand: Happy Coding. 
+
+If you have any feedback or questions, feel free to contact me on Twitter with [@vcarreira](https://twitter.com/vcarreira) or email with [vitor.carreira@gmail.com](mailto:vitor.carreira@gmail.com).
